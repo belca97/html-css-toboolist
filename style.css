@@ -1,0 +1,67 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+body{
+    background-color: grey;
+}
+
+
+header h1{
+    display: inline;
+    line-height: 25%;
+}
+
+header{
+    background-color: white;
+    margin-top: 0px;
+    margin: auto;
+}
+
+.container{
+
+    background-color: white;
+    width: 70%;
+    height: 30px;
+    padding: 40px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#bottom-blue{
+    background-color: rgb(122, 122, 231);
+    ;
+}
+
+#bottom{
+    ;
+}
+
+#box{
+    background-color: white;
+    width: 70%;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+main section{
+    padding: 50px;
+}
+
+h3::before{
+    content: '\25BC';
+}
+
+section h3{
+    padding: 30px;
+}
+
+
+.text-main{
+    
+}
